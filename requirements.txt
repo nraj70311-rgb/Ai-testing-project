@@ -1,0 +1,10 @@
+selenium
+pytest
+pandas
+sqlalchemy
+psycopg2-binary
+scikit-learn
+streamlit
+plotly
+joblib
+webdriver-manager
